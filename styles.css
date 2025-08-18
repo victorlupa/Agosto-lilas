@@ -1,1 +1,68 @@
+body{
+  background-color: #ffe6f0;
+  font-family: Ariel sans-serif;
+  padding: 20x;
+  margin: 0;
+}
 
+header{
+  backgraud-color: #b30059
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+h1{ 
+  font-size: 32px;
+  margin: 0;
+}
+
+main{
+margin: 30px outo;
+  max-width: 800px;
+}
+
+p{
+font-size: 20px;
+  color: #333
+  line-height: 16;
+  margin-bottom: 15px;
+}
+
+img{
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+  border: 3px solid #b30059;
+  border-radius: 10px;
+}
+
+footer{
+  background-color: #055081;
+  color: #555;
+  text-aling: center;
+  padding: 15px;
+  margin-top: 14px;
+  font-size: 14px;
+ 
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
